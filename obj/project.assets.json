@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\goa\\Desktop\\PM\\обучение PRODACT\\Task2\\Task2.csproj",
-      "projectName": "Task2",
-      "projectPath": "C:\\Users\\goa\\Desktop\\PM\\обучение PRODACT\\Task2\\Task2.csproj",
+      "projectUniqueName": "C:\\Users\\goa\\Desktop\\PM\\обучение PRODACT\\Task3\\Task3.csproj",
+      "projectName": "Task3",
+      "projectPath": "C:\\Users\\goa\\Desktop\\PM\\обучение PRODACT\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\goa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\goa\\Desktop\\PM\\обучение PRODACT\\Task2\\obj\\",
+      "outputPath": "C:\\Users\\goa\\Desktop\\PM\\обучение PRODACT\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\goa\\AppData\\Roaming\\NuGet\\NuGet.Config"
